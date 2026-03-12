@@ -104,8 +104,6 @@ Actively seeking **Data Analyst** or **Business Analyst** roles in:
 - Payments  
 - Retail & supply chain  
 
-Open to **Washington, DC**, **Bay Area**, and **remote/hybrid** roles.
-
 ---
 
 ## 📫 Let’s Connect
