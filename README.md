@@ -106,6 +106,12 @@ Actively seeking **Data Analyst** or **Business Analyst** roles in:
 
 ---
 
+## 🌐 Portfolio
+You're already here — this GitHub profile *is* my portfolio.  
+Explore my pinned projects below for my best work.
+
+---
+
 ## 📫 Let’s Connect
 <p>
   <a href="https://www.linkedin.com/in/tayabhavsar">
