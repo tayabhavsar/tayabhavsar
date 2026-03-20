@@ -76,16 +76,6 @@ Includes diagnostics, visualizations, and business recommendations.
 
 ---
 
-### **🍷 Wine Quality Prediction (ML)**
-Classification models predicting wine quality using chemical properties.  
-Compared algorithms, evaluated performance, and visualized key drivers.
-
-<p align="center">
-  <img src="https://github.com/tayabhavsar/Wine-Quality-Prediction/blob/main/figures/wine_correlation_heatmap.png" width="500"/>
-</p>
-
----
-
 ### **🚗 U.S. Electric Vehicle Market Share Analysis**
 Exploratory analysis of EV adoption trends, market share shifts, and state‑level patterns.  
 Includes visual storytelling and KPI summaries.
