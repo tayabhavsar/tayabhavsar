@@ -6,7 +6,7 @@
 # 👋 Hi, I'm Taya Bhavsar 
 ### **Data & Business Analyst | SQL • Python • R • Tableau | Analytics Storyteller**
 
-I’m an early‑career data/business analyst focused on **operational analytics, regression modeling, dashboard design, and clear, actionable insights**. I enjoy transforming messy datasets into structured stories that help teams make smarter decisions.
+I’m an early‑career data/business analyst focused on **operational analytics, regression modeling, dashboard design, and developing clear, actionable insights**. I enjoy transforming messy datasets into structured stories that help teams make smarter decisions.
 
 I’m currently completing my **Business Analytics certificate at San José State University**, where I lead group analytics projects and specialize in **regression analysis, KPI design, and executive‑ready reporting**.
 
